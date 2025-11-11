@@ -28,7 +28,7 @@
     "dashjs": "^5.0.3",
     "echarts": "^6.0.0",
     "http-status-codes": "^2.3.0",
-    "nuxt-echarts": "0.4.0",
+    "nuxt-echarts": "1.0.1",
     "pinia": "^3.0.4",
     "vuetify-nuxt-module": "0.18.8",
     "zxcvbn": "^4.4.2"
