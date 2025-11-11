@@ -18,7 +18,7 @@
     "typescript": "^5.9.3",
     "vue": "^3.5.24",
     "vue-router": "^4.6.3",
-    "@nuxt/fonts": "0.11.4",
+    "@nuxt/fonts": "0.12.1",
     "@nuxt/icon": "1.15.0",
     "@nuxt/test-utils": "3.19.2",
     "@pinia/colada": "^0.17.8",
