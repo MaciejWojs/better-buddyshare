@@ -19,10 +19,11 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v5
-      - name: Auto approve
-        run: gh pr review --approve "${{ github.event.pull_request.number }}"
+      - name: Approve a PR
+        run: gh pr review --approve "$PR_URL"
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{github.event.pull_request.html_url}}
+          GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - uses: peter-evans/enable-pull-request-automerge@v3
         with:
           pull-request-number: ${{ github.event.pull_request.number }}
