@@ -25,7 +25,7 @@
     "echarts": "^6.0.0",
     "eslint": "^9.39.2",
     "http-status-codes": "^2.3.0",
-    "nuxt": "^4.2.2",
+    "nuxt": "^4.3.0",
     "nuxt-echarts": "1.0.1",
     "pinia": "^3.0.4",
     "typescript": "^5.9.3",
