@@ -12,7 +12,7 @@
         "@nuxt/image": "2.0.0",
         "@nuxt/test-utils": "4.0.0",
         "@nuxt/ui": "4.4.0",
-        "@pinia/colada": "^0.21.6",
+        "@pinia/colada": "^1.0.0",
         "@pinia/colada-nuxt": "0.3.2",
         "@pinia/nuxt": "0.11.3",
         "@vueuse/nuxt": "14.2.1",
@@ -506,7 +506,7 @@
 
     "@parcel/watcher-win32-x64": ["@parcel/watcher-win32-x64@2.5.1", "", { "os": "win32", "cpu": "x64" }, "sha512-9lHBdJITeNR++EvSQVUcaZoWupyHfXe1jZvGZ06O/5MflPcuPLtEphScIBL+AiCWBO46tDSHzWyD0uDmmZqsgA=="],
 
-    "@pinia/colada": ["@pinia/colada@0.21.6", "", { "peerDependencies": { "pinia": "^2.2.6 || ^3.0.0", "vue": "^3.5.17" } }, "sha512-DppfAYky3Uavlpdx2iZHgd/+ZVPyBGTR+x+kFfAUz8h9l1DIQgf2cw/QZg0RZ4GAUNnKf6Ue6FzfWttwqhZXUQ=="],
+    "@pinia/colada": ["@pinia/colada@1.0.0", "", { "peerDependencies": { "pinia": "^2.2.6 || ^3.0.0", "vue": "^3.5.17" } }, "sha512-YKSybA6wusFK4CAUPzItoSgPCfScVnnnO2MSlmaaisE/L7luE77GxFyhTzipM8IbvbXh4zkCy97OE7w9WX34wA=="],
 
     "@pinia/colada-nuxt": ["@pinia/colada-nuxt@0.3.2", "", { "dependencies": { "@nuxt/kit": "^4.3.1" }, "peerDependencies": { "@pinia/colada": ">=0.21.6" } }, "sha512-ICPbRZ03g43CPKYwxkWf3yFbW8iz7L7kF5QoJw7lok7k7fkz9t0tFc3SrOgjl7B8PEiw3syD7rRtu3CeGmuJeg=="],
 
