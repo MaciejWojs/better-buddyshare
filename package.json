@@ -28,7 +28,7 @@
     "nuxt": "^4.4.2",
     "nuxt-echarts": "1.0.1",
     "pinia": "^3.0.4",
-    "typescript": "^6.0.2",
+    "typescript": "^6.0.3",
     "vue": "^3.5.32",
     "vue-router": "^5.0.4",
     "vuetify-nuxt-module": "0.19.5",

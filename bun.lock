@@ -23,7 +23,7 @@
         "nuxt": "^4.4.2",
         "nuxt-echarts": "1.0.1",
         "pinia": "^3.0.4",
-        "typescript": "^6.0.2",
+        "typescript": "^6.0.3",
         "vue": "^3.5.32",
         "vue-router": "^5.0.4",
         "vuetify-nuxt-module": "0.19.5",
@@ -1942,7 +1942,7 @@
 
     "type-level-regexp": ["type-level-regexp@0.1.17", "", {}, "sha512-wTk4DH3cxwk196uGLK/E9pE45aLfeKJacKmcEgEOA/q5dnPGNxXt0cfYdFxb57L+sEpf1oJH4Dnx/pnRcku9jg=="],
 
-    "typescript": ["typescript@6.0.2", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-bGdAIrZ0wiGDo5l8c++HWtbaNCWTS4UTv7RaTH/ThVIgjkveJt83m74bBHMJkuCbslY8ixgLBVZJIOiQlQTjfQ=="],
+    "typescript": ["typescript@6.0.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-y2TvuxSZPDyQakkFRPZHKFm+KKVqIisdg9/CZwm9ftvKXLP8NRWj38/ODjNbr43SsoXqNuAisEf1GdCxqWcdBw=="],
 
     "ua-parser-js": ["ua-parser-js@1.0.41", "", { "bin": { "ua-parser-js": "script/cli.js" } }, "sha512-LbBDqdIC5s8iROCUjMbW1f5dJQTEFB1+KO9ogbvlb3nm9n4YHa5p4KTvFPWvh2Hs8gZMBuiB1/8+pdfe/tDPug=="],
 
