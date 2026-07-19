@@ -27,7 +27,7 @@
     "http-status-codes": "^2.3.0",
     "nuxt": "^4.4.8",
     "nuxt-echarts": "1.0.1",
-    "pinia": "^3.0.4",
+    "pinia": "^4.0.2",
     "typescript": "^7.0.2",
     "vue": "^3.5.39",
     "vue-router": "^5.1.0",
