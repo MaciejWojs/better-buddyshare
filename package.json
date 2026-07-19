@@ -18,7 +18,7 @@
     "@nuxt/test-utils": "4.0.3",
     "@nuxt/ui": "4.10.0",
     "@pinia/colada": "^1.4.2",
-    "@pinia/colada-nuxt": "1.0.1",
+    "@pinia/colada-nuxt": "1.0.2",
     "@pinia/nuxt": "1.0.1",
     "@vueuse/nuxt": "14.3.0",
     "dashjs": "^5.2.0",
