@@ -13,7 +13,7 @@
     "@eyevinn/webrtc-player": "^0.13.0",
     "@nuxt/eslint": "1.17.0",
     "@nuxt/fonts": "0.14.0",
-    "@nuxt/icon": "2.4.1",
+    "@nuxt/icon": "2.5.0",
     "@nuxt/image": "2.1.0",
     "@nuxt/test-utils": "4.1.0",
     "@nuxt/ui": "4.10.0",
