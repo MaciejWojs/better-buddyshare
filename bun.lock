@@ -13,7 +13,7 @@
         "@nuxt/test-utils": "4.3.2",
         "@nuxt/ui": "4.11.2",
         "@pinia/colada": "^1.4.6",
-        "@pinia/colada-nuxt": "1.1.0",
+        "@pinia/colada-nuxt": "1.2.0",
         "@pinia/nuxt": "1.0.2",
         "@vueuse/nuxt": "15.0.0",
         "dashjs": "^5.2.1",
@@ -444,7 +444,7 @@
 
     "@pinia/colada": ["@pinia/colada@1.4.6", "", { "dependencies": { "nostics": "^1.2.0" }, "peerDependencies": { "pinia": "^2.2.6 || ^3.0.0 || ^4.0.2", "vue": "^3.5.41" } }, "sha512-ph+R4Mk3nOOZ03879burpyTP5kdQt7p/XaU73zv9ogH3iDnsRevzhHQCSOAfVrZvDgyjeaRGhsq/p+N0bh53HA=="],
 
-    "@pinia/colada-nuxt": ["@pinia/colada-nuxt@1.1.0", "", { "dependencies": { "@nuxt/kit": "^4.5.2" }, "peerDependencies": { "@pinia/colada": ">=1.4.3" } }, "sha512-QuFco8I+LsXCf52OMGwXvctXMzCV2GY7mLrQ8rMy6d60YeO2h9dZ7MuxWilW0kMIdcrqS6na17f4OCT7sFwBiQ=="],
+    "@pinia/colada-nuxt": ["@pinia/colada-nuxt@1.2.0", "", { "dependencies": { "@nuxt/kit": "^4.5.2" }, "peerDependencies": { "@pinia/colada": ">=1.4.5", "@pinia/colada-devtools": "^2.0.0" }, "optionalPeers": ["@pinia/colada-devtools"] }, "sha512-9wij8atRPiyC3C9/lWkxRV7LkN+ZILKIU1oeKj0gd66qsF4xsJtRW+sqowGOwe2beYwSkYuztThOA/DaQFuQsQ=="],
 
     "@pinia/nuxt": ["@pinia/nuxt@1.0.2", "", { "dependencies": { "@nuxt/kit": "^4.4.8" }, "peerDependencies": { "pinia": "^4.0.3" } }, "sha512-x+G/zz7SDjLq3TUf0jpaXiOb03ZY+O3i0q8aMP76Lz3MS/NaE71SJCCZjYiF8dNsz/0oOnCPT2DKghkumXlVRw=="],
 
